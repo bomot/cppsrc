@@ -1,0 +1,74 @@
+
+.main-section__card div {
+  width: 100%;
+  height: 14%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#logo {
+    height: 44%;
+    flex-direction: column;
+}
+
+#logo span {
+    background: radial-gradient(circle, white, rgba(128, 68, 18, 0.8));
+
+    box-shadow: inset 0 0 0.1rem 0.1rem, 0 0 0.1rem 0.1rem;
+
+    padding: 2% 6% 0.8% 6%;
+}
+
+#logo #bystrova {
+    margin-bottom: 2.8%;
+
+    font-size: 2.2rem;
+}
+
+#logo #neht-spec {
+    font-size: 1.2rem;
+}
+
+#services-list span{
+    margin-right: 4%;
+}
+#services-list span:last-of-type{
+    margin-right: 0;
+}
+
+
+#options-list span{
+    margin-right: 4%;
+}
+#options-list span:last-of-type{
+    margin-right: 0%;
+}
+
+
+#gallery {
+    height: 28%;
+}
+#gallery span{
+    margin-right: 4%;
+}
+#gallery span:last-of-type{
+    margin-right: 0%;
+}
+
+#gallery span {
+    padding: 2% 2.8% 2% 2.8%;
+    margin-right: 4%;
+
+    font-size: 1.54rem;
+}
+
+#gallery span:nth-child(1) {
+    background: radial-gradient(circle, white, rgb(220, 240, 255));
+}
+
+#gallery span:not(:first-child) {
+    background: linear-gradient(to left, white, rgba(255, 0, 0, 0.8));
+
+    box-shadow: inset 0 0 0.1rem 0.1rem, 0.1rem 0 0.1rem 0.1rem;
+}

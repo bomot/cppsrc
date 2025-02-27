@@ -1,0 +1,10 @@
+.aliceblue {
+  border: 0.08rem solid rgb(88, 88, 88);
+  border-radius: 8%;
+
+  background-color: rgb(220, 240, 255);
+
+  font-weight: 700;
+
+  padding: 2%;
+}
