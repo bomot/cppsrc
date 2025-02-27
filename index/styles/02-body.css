@@ -1,0 +1,11 @@
+body {
+  background: black;
+
+  width: 100dvw;
+  height: 100dvh;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+}
