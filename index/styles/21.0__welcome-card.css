@@ -64,7 +64,7 @@
 }
 
 #gallery span:nth-child(1) {
-    background: radial-gradient(circle, white, rgb(220, 240, 255));
+    background: linear-gradient(to left, white, rgb(220, 240, 255));
 }
 
 #gallery span:not(:first-child) {
