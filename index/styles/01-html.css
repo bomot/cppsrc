@@ -1,6 +1,9 @@
 :root {
+  /* Backgrounds */
   --bgc-header-main-footer: rgb(7, 54, 66);
-
   --bgi-header-footer: radial-gradient(circle, white, rgba(0, 218, 255, 0.6));
   --bgi-main: linear-gradient(to left, white, rgba(0, 178, 255, 0.5));
+
+  /* Borders */
+  --brdr-main-navbutt: rgb(178, 178, 178)
 }

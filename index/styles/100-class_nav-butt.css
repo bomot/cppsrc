@@ -1,5 +1,5 @@
 .nav-butt {
-  border: 0.16rem solid rgb(128, 128, 128);
+  border: 0.16rem solid var(--brdr-main-navbutt);
   border-radius: 20%;
 
   box-shadow: inset 0 0 0.4rem 0.2rem, 0 0 0.2rem 0.1rem;
